@@ -1,5 +1,3 @@
----
-
 # GeniRoute-v0
 
 **Sistema Inteligente de Previsão Operacional para Entregas (GenAI + ML)**
@@ -155,5 +153,4 @@ Ele pode ser facilmente expandido para:
 * Uso de Large Language Models (LLMs)
 * Análises mais avançadas de risco e otimização
 
----
 
